@@ -26,7 +26,7 @@ server-side logic and **Service Portal** work.
 
 ## Technical focus
 
-- **ServiceNow modules:** IRM/GRC, Business Continuity Management, ITSM, CMDB & Discovery, CSDM, HR Service Delivery, Customer Service Management
+- **ServiceNow modules:** IRM/GRC, Business Continuity Management, ITSM, CMDB, Discovery & Service Mapping, HR Service Delivery, Customer Service Management
 - **Platform development:** Business Rules, Script Includes, Client Scripts, UI Policies and Actions, ACLs, scoped applications
 - **Automation:** Flow Designer (flows, subflows, actions), IntegrationHub spokes
 - **Integrations:** REST and SOAP (inbound and outbound), Scripted REST APIs, Import Sets and transform maps, MID Server, OAuth 2.0
